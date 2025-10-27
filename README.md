@@ -39,14 +39,28 @@ Features include:
 🔹 Auto-fill City & State via Postal Pincode API  
 
 #### 💬 [ChatAdda](https://github.com/Ranit68/ChatAdda)
-Real-time chat app with Firebase supporting text, image, and video messaging.  
+A real-time chat app where users can connect through text, voice, and video calls using Agora SDK.
+Features include:
+🔹 Chat with other users in real-time
+🔹 Video Calling integration via Agora SDK
+🔹 Profile customization and story posting
+🔹 Built with Java, XML, and Firebase
 
-#### 📱 [SnapVerse](https://github.com/Ranit68/SnapVerse)
-Social media app for sharing images, videos, and 24-hour stories.  
+#### 📸 [SnapVerse](https://github.com/Ranit68/SnapVerse)
+A social media platform inspired by Instagram built using Java, XML, and Firebase.
+Features include:
+🔹 Post photos and videos
+🔹 Add 24-hour disappearing stories
+🔹 Watch and upload Reels
+🔹 Profile management and post history
 
-#### 👶 [KidLauncher](https://github.com/Ranit68/KidLauncher)
-Custom Android launcher for kids with app restrictions and parental controls.
-
+#### 👶 [KidLauncher](https://github.com/Ranit68/ChatAdda)
+A custom Android TV launcher app for children’s safety.
+Features include:
+🔹 Parents can select which apps are accessible
+🔹 Password protection for restricted apps
+🔹 Modify or delete apps with parental control
+🔹 Includes age restriction feature for enhanced safety
 ---
 
 ### 🧠 Currently Learning  
@@ -68,7 +82,7 @@ Custom Android launcher for kids with app restrictions and parental controls.
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://github.com/Ranit68" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/sayan-das-a3a4a72a1)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sayan-das-a3a4a72a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sayandas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
