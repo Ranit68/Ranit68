@@ -54,7 +54,7 @@ Features include:
 🔹 Watch and upload Reels
 🔹 Profile management and post history
 
-#### 👶 [KidLauncher](https://github.com/Ranit68/ChatAdda)
+#### 👶 [KidLauncher](https://github.com/Ranit68/KidLauncher)
 A custom Android TV launcher app for children’s safety.
 Features include:
 🔹 Parents can select which apps are accessible
