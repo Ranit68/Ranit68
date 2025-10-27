@@ -53,7 +53,7 @@ Features include:
 A real-time chat app where users can connect through text, voice, and video calls using Agora SDK. 
 Features include:  
 🔹 Login & Register with Firebase Authentication  
-🔹 Chat with other users in real-time 
+🔹 Chat with other users in real-time  
 🔹 Video Calling integration via Agora SDK  
 🔹 Profile customization and story posting  
 🔹 Built with Java, XML, and Firebase  
