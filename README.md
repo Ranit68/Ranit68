@@ -68,7 +68,7 @@ Features include:
 🔹 Ability to modify or delete apps from the list 
 🔹 Age restriction and parental configuration options 
 🔹 Built with Java, XML, and Firebase  
----
+
 
 ### 🧠 Currently Learning  
 - Artificial Intelligence & Machine Learning  
