@@ -38,29 +38,36 @@ Features include:
 🔹 Address Management & Order History  
 🔹 Auto-fill City & State via Postal Pincode API  
 
-#### 💬 [ChatAdda](https://github.com/Ranit68/ChatAdda)
-A real-time chat app where users can connect through text, voice, and video calls using Agora SDK.
-Features include:
-🔹 Chat with other users in real-time
+#### 🛍️ [SnapVerse](https://github.com/Ranit68/SnapVerse)
+A social media app similar to Instagram built using Java, XML, and Firebase..  
+Features include:  
+🔹 Login & Register with Firebase Authentication  
+🔹 Post photos and videos  
+🔹 Add 24-hour disappearing stories
+🔹 Watch and upload Reels 
+🔹 View and manage personal posts 
+🔹 Profile customization and updates
+
+
+#### 📸 [ChatAdda](https://github.com/Ranit68/ChatAdda)
+A real-time chat app where users can connect through text, voice, and video calls using Agora SDK. 
+Features include:  
+🔹 Login & Register with Firebase Authentication  
+🔹 Chat with other users in real-time 
 🔹 Video Calling integration via Agora SDK
 🔹 Profile customization and story posting
 🔹 Built with Java, XML, and Firebase
 
-#### 📸 [SnapVerse](https://github.com/Ranit68/SnapVerse)
-A social media platform inspired by Instagram built using Java, XML, and Firebase.
-Features include:
-🔹 Post photos and videos
-🔹 Add 24-hour disappearing stories
-🔹 Watch and upload Reels
-🔹 Profile management and post history
 
 #### 👶 [KidLauncher](https://github.com/Ranit68/KidLauncher)
-A custom Android TV launcher app for children’s safety.
-Features include:
-🔹 Parents can select which apps are accessible
+A custom Android TV launcher app focused on parental control and child safety. 
+Features include:  
+🔹 Login & Register with Firebase Authentication  
+🔹 Parents can select which installed apps are accessible  
 🔹 Password protection for restricted apps
-🔹 Modify or delete apps with parental control
-🔹 Includes age restriction feature for enhanced safety
+🔹 Ability to modify or delete apps from the list 
+🔹 Age restriction and parental configuration options 
+🔹 Built with Java, XML, and Firebase  
 ---
 
 ### 🧠 Currently Learning  
